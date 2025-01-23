@@ -13,4 +13,4 @@
 #docker.elastic.co/kibana/kibana:8.17.0
 #neo4j:5.26.0-community-bullseye
 #redis:7.4.1
-v2rayA:v2.2.6.3
+mzz2017/v2raya:v2.2.6.3
